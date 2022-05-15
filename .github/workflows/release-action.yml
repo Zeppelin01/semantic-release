@@ -10,4 +10,6 @@ jobs:
       - uses: actions/setup-node@v2
       - run: npm install -g semantic-release @semantic-release/git @semantic-release/changelog -D
       - run: npx semantic-release
-      
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
