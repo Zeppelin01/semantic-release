@@ -10,3 +10,4 @@ jobs:
       - uses: actions/setup-node@v2
       - run: npm install -g semantic-release @semantic-release/git @semantic-release/changelog -D
       - run: npx semantic-release
+        
