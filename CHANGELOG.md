@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+## [0.0.4](https://github.com/Zeppelin01/semantic-release/compare/v0.0.3...v0.0.4) (2022-05-16)
+
+
+### Bug Fixes
+
+* added getting the tag name. ([c6d71df](https://github.com/Zeppelin01/semantic-release/commit/c6d71dfb06791962ade82248c9d4bac6f452f3ca))
+
 ## [0.0.3](https://github.com/Zeppelin01/semantic-release/compare/v0.0.2...v0.0.3) (2022-05-16)
 
 
