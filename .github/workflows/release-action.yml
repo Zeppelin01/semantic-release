@@ -21,3 +21,4 @@ jobs:
       - name: Get the version
         id: get_version
         run: echo "Release version= ${GITHUB_REF/refs\/tags\//}"
+        
