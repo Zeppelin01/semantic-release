@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+## [0.0.5](https://github.com/Zeppelin01/semantic-release/compare/v0.0.4...v0.0.5) (2022-05-16)
+
+
+### Bug Fixes
+
+* trigerring a new version. ([b71cc5e](https://github.com/Zeppelin01/semantic-release/commit/b71cc5ebbd88913b3088e7173071995eab79f07d))
+
 ## [0.0.4](https://github.com/Zeppelin01/semantic-release/compare/v0.0.3...v0.0.4) (2022-05-16)
 
 
