@@ -10,8 +10,5 @@ jobs:
       - uses: actions/setup-node@v2
       - run: npm install -g semantic-release @semantic-release/git @semantic-release/changelog -D
       - run: npx semantic-release
-      - run: |
-          echo "Github Tag"
-          echo ${{ github.ref_name }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
